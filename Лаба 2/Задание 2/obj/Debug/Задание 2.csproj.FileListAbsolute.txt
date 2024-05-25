@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Универ\прога\Лабораторная работа 2\Лаба 2\Задание 2\bin\Debug\Задание 2.exe.config
+C:\Users\PC\Desktop\Универ\прога\Лабораторная работа 2\Лаба 2\Задание 2\bin\Debug\Задание 2.exe
+C:\Users\PC\Desktop\Универ\прога\Лабораторная работа 2\Лаба 2\Задание 2\bin\Debug\Задание 2.pdb
+C:\Users\PC\Desktop\Универ\прога\Лабораторная работа 2\Лаба 2\Задание 2\obj\Debug\Задание 2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Универ\прога\Лабораторная работа 2\Лаба 2\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Универ\прога\Лабораторная работа 2\Лаба 2\Задание 2\obj\Debug\Задание 2.exe
+C:\Users\PC\Desktop\Универ\прога\Лабораторная работа 2\Лаба 2\Задание 2\obj\Debug\Задание 2.pdb

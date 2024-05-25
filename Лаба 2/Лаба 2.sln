@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лаба 2", "Лаба 2\Лаба 2.csproj", "{0E30F9CC-12CE-4552-B9FA-D28AC1A0ECAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание 2", "Задание 2\Задание 2.csproj", "{5911C77C-D90C-42B9-B877-0A0C04CF76CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание 3", "Задание 3\Задание 3.csproj", "{DC29F879-65E5-403C-9AE3-4D97D9A88179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E30F9CC-12CE-4552-B9FA-D28AC1A0ECAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E30F9CC-12CE-4552-B9FA-D28AC1A0ECAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E30F9CC-12CE-4552-B9FA-D28AC1A0ECAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E30F9CC-12CE-4552-B9FA-D28AC1A0ECAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5911C77C-D90C-42B9-B877-0A0C04CF76CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5911C77C-D90C-42B9-B877-0A0C04CF76CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5911C77C-D90C-42B9-B877-0A0C04CF76CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5911C77C-D90C-42B9-B877-0A0C04CF76CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC29F879-65E5-403C-9AE3-4D97D9A88179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC29F879-65E5-403C-9AE3-4D97D9A88179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC29F879-65E5-403C-9AE3-4D97D9A88179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC29F879-65E5-403C-9AE3-4D97D9A88179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B260226A-BC72-428B-B3A6-52043482C7CB}
+	EndGlobalSection
+EndGlobal

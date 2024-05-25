@@ -10,6 +10,7 @@ namespace Задание_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Лаба 2");
             string input;
             string kr1;
             string kr2;

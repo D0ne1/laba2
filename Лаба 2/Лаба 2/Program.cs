@@ -10,6 +10,7 @@ namespace Лаба_2
     {
         static void Main(string[] args)
         {
+
             string inputn;
             string n;
             bool isNCorrect;
